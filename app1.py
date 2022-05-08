@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
+import sklearn
 
 model = pickle.load(open('model.pickle','rb'))
 st.header("Autism in Toddlers Prediction")
