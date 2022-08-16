@@ -59,7 +59,7 @@ data = {'A1': AQ1,
 	'Age':Age}
 
 features = pd.DataFrame(data, index=[0])
-features = features.replace("Male", "Female", "Always/Usually", "Rarely/Never"], [1,0,0,1])
+features = features.replace(["Male", "Female", "Always/Usually", "Rarely/Never"], [1,0,0,1])
 
 prediction = model.predict(features)
 if prediction[0] == 0:
