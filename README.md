@@ -19,7 +19,3 @@ This is the python file for deploying the toddler diagnosis model as a web appli
 
 The link to the Web application can be found here : https://awojidetola-autism-prediction-toddler-app-dng4yi.streamlitapp.com/
 
-+ Link to Research Paper
-
-The link to the Research Paper can be found here: 
-
