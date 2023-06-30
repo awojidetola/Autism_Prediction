@@ -13,7 +13,7 @@ This web application is based on my research paper on the topic: "Evaluation of 
 The Web Application aims to predict the diagnosis of toddlers based on their personal details and there response
 to the quantitative checklist (Q- CHAT-10 ) questions. The data used for this project was collected from [Kaggle](https://www.kaggle.com/datasets/fabdelja/autism-screening-for-toddlers) and has its origin from Dr. Fadi Thabtah of Manukau Institute of Technology. 
 
-The full codes and dataset used for the project can be found on [Github](https://github.com/awojidetola/Autism_Predict_App).
+The full codes and dataset used for the project can be found on [Github](https://github.com/awojidetola/Autism_Prediction).
 
 ''')
 
